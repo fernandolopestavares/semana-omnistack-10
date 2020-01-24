@@ -1,6 +1,11 @@
 ## DevRadar - Aplicação Omnistack 10.0
 
 <p align="center">
+  <img alt="Frontend" src=".github/devradar.png" width="100%">
+</p>
+
+
+<p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
@@ -16,7 +21,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-## Tecnologias
+### Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -26,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 
-## Projeto
+### Projeto
 
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 
-## :memo: Licença
+### Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
