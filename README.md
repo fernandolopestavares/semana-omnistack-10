@@ -1,9 +1,10 @@
-## DevRadar - Aplicação Omnistack 10.0
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+</h1>
 
 <p align="center">
   <img alt="Frontend" src=".github/devradar.png" width="100%">
 </p>
-
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
@@ -20,6 +21,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+## DevRadar - Aplicação Omnistack 10.0
 
 ### Tecnologias
 
